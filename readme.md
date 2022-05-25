@@ -29,4 +29,4 @@ As after feature creation the data is no longer considered "big" the model devel
 
 ## Blog post
 
-More information about the models derived can be found in this blogpost
+More information about the models derived can be found in this blogpost: https://medium.com/@jan.krueger/4241ba1555d5
