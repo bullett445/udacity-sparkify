@@ -1,1 +1,3 @@
 *.json
+spark-warehouse/
+.ipynb_checkpoints
